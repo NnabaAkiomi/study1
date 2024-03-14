@@ -384,4 +384,8 @@ body {
   letter-spacing: normal;
   font-weight: 400;
   font-feature-settings: "palt" 1;
+}
+
+.header__inner--item {
+  list-style: none;
 }/*# sourceMappingURL=main.css.map */
